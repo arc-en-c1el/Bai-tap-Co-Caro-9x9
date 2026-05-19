@@ -1,0 +1,2 @@
+# Dự án sử dụng thư viện chuẩn của Python.
+# Chỉ cần cài đặt thêm thư viện Pygame.
