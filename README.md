@@ -8,7 +8,7 @@ Bài tập này là Cờ Caro với diện tích bàn cờ 9x9 với 2 người 
 Để có thể chạy chương trình, cần phải tải thư viện Pygame về
 
 ## Cấu trúc file
-
+```text
 ├── src/
 │   ├── ai.py           # Chứa thuật toán Minimax, Alpha-Beta và hàm Heuristic
 │   ├── config.py       # Config của game
@@ -17,7 +17,7 @@ Bài tập này là Cờ Caro với diện tích bàn cờ 9x9 với 2 người 
 ├── report.pdf          # File báo cáo tài liệu
 ├── report.docx         # File báo cáo tài liệu
 └── README.md           # Tổng quát về dự án
-
+```
 ## Cách mở trò chơi
 Mở file main.py lên và chạy code thì chương trình sẽ mở lên
 <img width="1002" height="915" alt="image" src="https://github.com/user-attachments/assets/4bd13541-3eae-4d44-9978-1fc082119efd" />
